@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="86970a42-57e8-4589-8152-414a3c35c3d9" name="epam_exhibition@localhost Mapping">
+      <data-sources db="643867fa-c011-4515-94d7-862c1a614e83" ddl="01caf481-d8db-4adb-9058-c3c7e5c0c3eb" />
+      <scope>
+        <node negative="1">
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+          <node kind="database" qname="epam_exhibition" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
